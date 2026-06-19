@@ -6,6 +6,14 @@
 
 ---
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/420f831c-be14-42db-9940-efa84a6a3bff" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3c91cc3e-19c9-4732-acea-4f2ea6a069c9" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/470d7e35-94c1-4ec8-ae1d-120cfe396ae6" />
+
+---
+
 ## Ключевые особенности
 
 * **Интерактивное обучение:** Встроенный пошаговый туториал объясняет ключевые понятия генетики (ДНК, хромосомы, естественный отбор, мутации) понятным языком.
